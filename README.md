@@ -7,4 +7,4 @@ This page using [Cover](https://getbootstrap.com/docs/3.4/examples/cover) by [Ma
 
 ## License
 
-<a href="https://github.com/archytech99/archytech.github.io/blob/master/LICENSE"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href="https://github.com/archytech99/archytech99.github.io/blob/master/LICENSE"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
