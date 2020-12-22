@@ -1,6 +1,6 @@
 <p align="center"><a href="https://archytech.github.io" target="_blank"><img src="https://i.imgur.com/vIh0tE0.png" width="550"></a></p>
 
-## About Laravel
+## About Archytech
 
 Just simple landing page [archytech](https://archytech.github.io)<br>
 This page using [Cover](https://getbootstrap.com/docs/3.4/examples/cover) by [Mark Otto](https://twitter.com/mdo) template from [Bootstrap](https://getbootstrap.com) 
