@@ -2,7 +2,7 @@
 
 ## About Archytech
 
-Just simple landing page [archytech](https://archytech.github.io)<br>
+Just simple landing page [archytech](https://archytech99.github.io)<br>
 This page using [Cover](https://getbootstrap.com/docs/3.4/examples/cover) by [Mark Otto](https://twitter.com/mdo) template from [Bootstrap](https://getbootstrap.com) 
 
 ## License
